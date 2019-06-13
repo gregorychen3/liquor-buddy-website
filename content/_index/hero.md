@@ -10,7 +10,7 @@ title = "LiquorBuddy"
 subtitle = "Find the best price at liquor stores"
 
 [header]
-  image = "header.jpg"
+  image = "liquor_header.jpg"
 
 [[buttons]]
   text = "Button"
