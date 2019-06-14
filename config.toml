@@ -27,10 +27,10 @@ googleAnalytics = ""
   # Theme customizations
   # Assets relative to 'static/'
   [params.custom]
-    favicon = "favicon.ico"
+    favicon = "images/favicon.ico"
     favicon_ico_sizes = "16x16 32x32"
-    favicon_png = "favicon.png"
-    favicon_svg = "favicon.svg"
+    favicon_png = "images/favicon.png"
+    #favicon_svg = "favicon.svg"
 
   # Piwik tracking
   [params.analytics.piwik]
