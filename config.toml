@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "http://gregorychen3.github.io/liquor-buddy-website/"
 languageCode = "en-us"
 title = "LiquorBuddy"
 theme = "syna"
