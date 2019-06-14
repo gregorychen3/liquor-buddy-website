@@ -65,8 +65,8 @@ googleAnalytics = ""
   weight = 10
 
 [[menu.main]]
-  url = "/about"
-  name = "About Us"
+  url = "http://gregory-chen.com/"
+  name = "About"
   weight = 20
 
 [[menu.main]]
@@ -90,18 +90,18 @@ googleAnalytics = ""
   weight = 30
 
 [[menu.copyright_footer]]
-  url = "/about"
+  url = "http://gregory-chen.com/"
   name = "About"
   weight = 10
 
-[[menu.footer_social]]
-  weight = 20
-  name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "#"
-
-[[menu.footer_social]]
-  weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+#[[menu.footer_social]]
+#  weight = 20
+#  name = "facebook"
+#  pre = "fab fa-facebook-f"
+#  url = "#"
+#
+#[[menu.footer_social]]
+#  weight = 30
+#  name = "linkedin"
+#  pre = "fab fa-linkedin-in"
+#  url = "#"
