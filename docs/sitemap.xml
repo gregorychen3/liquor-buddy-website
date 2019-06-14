@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://gregorychen3.github.io/liquor-buddy-website/</loc>
+    <lastmod>2019-06-13T20:08:55-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gregorychen3.github.io/liquor-buddy-website/</loc>
+    <lastmod>2019-06-13T20:08:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gregorychen3.github.io/liquor-buddy-website/about/</loc>
+    <lastmod>2019-06-13T00:03:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gregorychen3.github.io/liquor-buddy-website/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gregorychen3.github.io/liquor-buddy-website/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
