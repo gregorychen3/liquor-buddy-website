@@ -7,4 +7,4 @@ weight = 11
 #  url = "#"
 +++
 
-Conveniently search and add liquor prices by scanning the bottle
+Easily contribute / find liquor prices by scanning the bottle
