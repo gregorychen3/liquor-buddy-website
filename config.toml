@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "LiquorBuddy"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.0"
@@ -17,7 +17,7 @@ lastmod = ["lastmod", ":git", "date"]
 googleAnalytics = ""
 
 [params]
-  name = "Okkur Labs"
+  name = "LiquorBuddy"
   description = "Open Source Theme for your next project"
 
   [params.style]
@@ -90,13 +90,8 @@ googleAnalytics = ""
 
 [[menu.copyright_footer]]
   url = "/about"
-  name = "About Us"
+  name = "About"
   weight = 10
-
-[[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
-  weight = 30
 
 [[menu.footer_social]]
   weight = 20
