@@ -13,17 +13,13 @@ subtitle = "Find the best price at liquor stores"
   image = "liquor_header.jpg"
 
 [[buttons]]
-  text = "Button"
+  text = "App Store"
   url = "#"
-  color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Download"
-  url = "https://github.com/okkur/syna/releases"
-  color = "primary"
-
-[[buttons]]
-  text = "Button"
+  text = "Google Play"
   url = "#"
-  color = "success"
+  color = "dark"
+
 +++
