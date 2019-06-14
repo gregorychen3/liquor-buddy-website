@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://gregorychen3.github.io/liquor-buddy-website/"
+baseurl = "https://gregorychen3.github.io/liquor-buddy-website/"
 languageCode = "en-us"
 title = "LiquorBuddy"
 theme = "syna"
@@ -19,7 +19,7 @@ googleAnalytics = ""
 
 [params]
   name = "LiquorBuddy"
-  description = "Open Source Theme for your next project"
+  description = "Find the best price at liquor stores"
 
   [params.style]
     #background = "secondary"
