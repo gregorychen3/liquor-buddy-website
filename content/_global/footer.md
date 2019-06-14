@@ -14,8 +14,7 @@ menu_title = "Link Title"
   url = "#"
 +++
 
-#### Description Title
-
-Project description such as:
-Open source theme for your next project
-Provided by Okkur Labs
+#### Our Tech Stack
+- React Native
+- RESTful Express.js Backend API
+- MongoDB
