@@ -1,6 +1,6 @@
 +++
 fragment = "nav"
-disabled = true
+#disabled = true
 date = "2018-05-17"
 weight = 0
 #background = ""
@@ -12,6 +12,6 @@ weight = 0
 
 # Branding options
 [asset]
-  image = "logo.svg"
-  text = "Syna"
+  image = "bottles_icon.png"
+  text = "LiquorBuddy"
 +++
