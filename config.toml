@@ -5,6 +5,7 @@ title = "LiquorBuddy"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.0"
+publishDir = "docs"
 
 [outputs]
   home = ["HTML", "JSON"]
