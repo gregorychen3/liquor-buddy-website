@@ -15,11 +15,11 @@ subtitle = "Find the best price at liquor stores"
 [[buttons]]
   text = "App Store"
   url = "#"
-  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "secondary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Google Play"
   url = "#"
-  color = "primary"
+  color = "secondary"
 
 +++
