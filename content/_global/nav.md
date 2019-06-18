@@ -12,6 +12,6 @@ weight = 0
 
 # Branding options
 [asset]
-  image = "bottles_icon.png"
+  image = "favicon.png"
   text = "LiquorBuddy"
 +++
