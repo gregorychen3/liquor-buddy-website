@@ -7,4 +7,4 @@ weight = 10
 #  url = "#"
 +++
 
-Find out which liquor store nearby carries your preferred liquor at the best price
+Find out which nearby liquor stores nearby carry your favorite liquors at the best price.
