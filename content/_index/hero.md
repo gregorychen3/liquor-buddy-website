@@ -13,13 +13,13 @@ subtitle = "Find the best price at liquor stores"
   image = "liquor_header.jpg"
 
 [[buttons]]
-  text = "App Store"
+  text = "Apple App Store"
   url = "#"
-  color = "secondary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Google Play"
+  text = "Google Play Store"
   url = "#"
-  color = "secondary"
+  color = "primary"
 
 +++
