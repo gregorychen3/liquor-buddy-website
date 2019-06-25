@@ -14,7 +14,7 @@ subtitle = "Find the best price at liquor stores"
 
 [[buttons]]
   text = "Apple App Store"
-  url = "#"
+  url = "https://apps.apple.com/us/app/liquorbuddy/id1467114342?ls=1"
   color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
