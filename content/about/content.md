@@ -5,28 +5,68 @@ date = "2017-10-05"
 weight = 100
 #background = ""
 
-title = "About Syna"
+title = "Privacy Policy"
 #subtitle = ""
 +++
 
-Open Source Theme from Okkur for your next project.
 
-Syna is based on the awesome work by digitalcraftsman with his Hugo Agency Theme.
+Gregory Chen built the LiquorBuddy app as a Free app. This SERVICE is provided by Gregory Chen at no cost and is intended for use as is.
 
-The Hugo Agency Theme was based on the work of David Miller with his Startupbootstrap Agency Theme.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-**Provided with <3 by Okkur Labs**
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
----
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at LiquorBuddy unless otherwise defined in this Privacy Policy.
 
-To actually test out the full single page some Lorem Ipsum:
+**Information Collection and Use**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a lorem urna. Quisque in neque malesuada, sollicitudin nunc porttitor, ornare est. Praesent ante enim, bibendum sed hendrerit et, iaculis laoreet felis. Morbi efficitur dui sit amet orci porttitor, nec tincidunt turpis elementum. Suspendisse rutrum, mi ac sollicitudin blandit, eros sem tincidunt enim, vitae feugiat turpis eros ut diam. Nunc hendrerit, nibh vitae dignissim pretium, magna nulla lacinia massa, et interdum lacus purus ultricies lacus. Nulla tincidunt quis lacus in posuere. Integer urna lorem, ultricies ut est vel, rhoncus euismod metus. Vestibulum luctus maximus massa, ut egestas est iaculis in. Nunc nisi dolor, sodales et imperdiet ut, lacinia ac justo. Phasellus ultrices risus cursus maximus lobortis. Vestibulum sagittis elementum dignissim. Suspendisse iaculis venenatis nisl, sed bibendum urna. Aliquam quis pellentesque tortor. Sed sed cursus nisl. Aenean eu lorem condimentum, feugiat mauris vitae, hendrerit tellus.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Google user profile. The information that I request will be retained on your device and is not collected by me in any way.
 
-Morbi ac sapien at risus volutpat tincidunt. Sed vel lobortis nisl. Sed mattis facilisis dui quis luctus. Aliquam bibendum venenatis tellus, non interdum nunc convallis in. Sed elementum aliquam tortor, vel consectetur sem sollicitudin sit amet. Nullam in elit turpis. Phasellus sagittis lacus massa, eu porta erat dapibus a. Phasellus placerat, nisi nec molestie accumsan, elit ex rutrum augue, ac pulvinar nulla nisl id velit. Pellentesque sapien dolor, tempus vitae elementum in, gravida ac arcu. Morbi facilisis, mi eget fringilla posuere, lorem ipsum euismod ex, id consequat lacus nisl ac tortor. Vivamus pulvinar dui non arcu lacinia faucibus. Vestibulum sapien leo, pretium in ligula et, aliquet mattis augue. Vestibulum tristique mi ultrices suscipit placerat. Nunc vehicula volutpat tellus sed fringilla.
+The app does use third party services that may collect information used to identify you.
 
-Curabitur ipsum ipsum, malesuada at tempus sed, pretium vulputate nunc. Praesent nec lectus ut mauris cursus hendrerit a vitae risus. Aliquam sodales lorem nisl, ut euismod dolor interdum ac. Vivamus facilisis justo vulputate augue finibus imperdiet. Aenean sem magna, tempus id orci eu, sodales pulvinar metus. Nullam pharetra ornare est. Vestibulum aliquet turpis et porttitor euismod. Nulla vitae orci orci. Suspendisse fringilla faucibus blandit. Nulla suscipit nulla ut massa elementum sollicitudin. Vivamus ultrices ipsum arcu, in vestibulum erat aliquam quis. Suspendisse eget mauris tellus. Maecenas euismod blandit odio, sed pellentesque orci mollis eget. Sed eget magna eu justo mollis hendrerit.
+Link to privacy policy of third party service providers used by the app
 
-Suspendisse molestie, tellus quis finibus facilisis, nulla neque euismod mi, at aliquet lectus arcu ac neque. Proin lacus augue, porttitor in odio vitae, sollicitudin laoreet mi. Donec posuere hendrerit augue hendrerit ornare. Duis vestibulum, nisl sit amet cursus lobortis, felis sapien consequat augue, et accumsan eros ligula id nisl. Praesent iaculis fringilla molestie. Sed consequat nec mi vel venenatis. Nunc felis dui, bibendum ac laoreet pretium, cursus ut orci. Nullam risus nulla, tempus ut bibendum quis, consectetur in risus.
+*   [Google Play Services](https://www.google.com/policies/privacy/)
 
-Etiam eget metus elit. Praesent turpis mi, malesuada nec libero a, cursus varius leo. In malesuada gravida est, nec maximus turpis posuere eu. Proin rutrum mattis lectus. Ut mi elit, tincidunt ut aliquet consequat, facilisis vitae arcu. Proin ut massa auctor, imperdiet sem ac, varius justo. Integer porta tellus quis eros sollicitudin mollis. Donec nulla sem, porttitor et velit vitae, tincidunt congue erat. Vivamus urna libero, viverra non pharetra eu, bibendum id arcu. In fermentum bibendum purus, vitae pharetra ipsum gravida quis. Nunc vitae congue diam. Maecenas pharetra orci vel magna fermentum, vitae auctor sapien consectetur. Nunc tempor erat vel nisi ullamcorper mollis. Sed et lectus accumsan, pharetra nunc scelerisque, finibus leo. Sed tempor eros nec nunc porta sodales.
+**Log Data**
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+**Cookies**
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+**Service Providers**
+
+I may employ third-party companies and individuals due to the following reasons:
+
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
+
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+**Security**
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+**Links to Other Sites**
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children’s Privacy**
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+
+**Changes to This Privacy Policy**
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at gregorychen3@gmail.com.
+
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
