@@ -95,8 +95,13 @@ googleAnalytics = ""
   weight = 10
 
 [[menu.copyright_footer]]
-  url = "http://gregory-chen.com/"
-  name = "Contact"
+  url = "about"
+  name = "About"
+  weight = 10
+
+[[menu.copyright_footer]]
+  url = ""
+  name = " Home"
   weight = 10
 
 #[[menu.footer_social]]
