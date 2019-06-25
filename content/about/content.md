@@ -19,8 +19,8 @@ Kindly direct all inquiries to <contactliquorbuddy@gmail.com>. Thank you.
 - Hosted on Heroku
 
 ### The First LiquorBuddy
-Gregory Chen is the creator LiquorBuddy. In addition to programming, he is a lover of philosophy, literature, history, and music.
+Gregory Chen is the creator LiquorBuddy. Besides liquors and programming, his interests include philosophy, literature, history, and music.
 
-- [Personal Website](http://gregory-chen.com)
 - [LinkedIn](https://www.linkedin.com/in/gregorychen3)
-- [Youtube Channel](https://www.youtube.com/channel/UCihTPpCdKn2H7aaJ4bU7QNA)
+- [Personal Website](http://gregory-chen.com)
+- [Youtube](https://www.youtube.com/channel/UCihTPpCdKn2H7aaJ4bU7QNA)

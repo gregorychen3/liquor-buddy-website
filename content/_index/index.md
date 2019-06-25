@@ -2,5 +2,5 @@
 url = "/"
 title = "Home"
 date = "2019-06-13"
-description = "Find the best price at liquor stores"
+description = "Save money at liquor stores"
 +++

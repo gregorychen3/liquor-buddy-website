@@ -19,7 +19,7 @@ googleAnalytics = ""
 
 [params]
   name = "LiquorBuddy"
-  description = "Find the best price at liquor stores"
+  description = "Save money at liquor stores"
 
   [params.style]
     #background = "secondary"

@@ -7,18 +7,18 @@ background = "light" # can influence the text color
 particles = false
 
 title = "LiquorBuddy"
-subtitle = "Find the best price at liquor stores"
+subtitle = "Save money at liquor stores"
 
 [header]
   image = "liquor_header.jpg"
 
 [[buttons]]
-  text = "Apple App Store"
+  text = "iOS"
   url = "https://apps.apple.com/us/app/liquorbuddy/id1467114342?ls=1"
   color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Google Play Store"
+  text = "Android"
   url = "#"
   color = "primary"
 
