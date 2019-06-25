@@ -90,7 +90,7 @@ googleAnalytics = ""
   weight = 30
 
 [[menu.copyright_footer]]
-  url = "about"
+  url = "privacy-policy"
   name = "Privacy Policy"
   weight = 10
 
