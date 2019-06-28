@@ -7,5 +7,5 @@ weight = 10
 #  url = "#"
 +++
 
-Find out which nearby liquor stores carry your liquors of choice, and at what prices.
+Find out which nearby liquor stores carry your favorite beverages, and at what prices.
 
