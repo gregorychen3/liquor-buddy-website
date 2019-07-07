@@ -18,7 +18,7 @@ Kindly direct all inquiries to <contactliquorbuddy@gmail.com>. Thank you.
 - MongoDB
 - Hosted on Heroku
 
-### The First LiquorBuddy
+### Creator
 Gregory Chen is the creator LiquorBuddy. Besides liquors and programming, his interests include philosophy, literature, history, and music.
 
 - [LinkedIn](https://www.linkedin.com/in/gregorychen3)
