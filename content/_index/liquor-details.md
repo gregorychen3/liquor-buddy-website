@@ -6,7 +6,7 @@ weight = 111
 background = "light"
 align = "left"
 
-title = "View Prices"
+title = "View Sellers and Prices"
 subtitle= "Sort by price or distance, within your specified search radius."
 
 # Subtitle pre and post item
